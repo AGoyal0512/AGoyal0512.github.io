@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Agam Goyal"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/agam-pic.jpg"
   bio    : "Undergraduate Researcher at the University of Wisconsin - Madison"
   links:
     - label: "Website"
