@@ -87,7 +87,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/agoyal100"
 
-# defaults:
+defaults:
   # _posts
   # - scope:
   #     path: "_pages/about.md"
