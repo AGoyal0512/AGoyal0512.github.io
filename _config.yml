@@ -92,7 +92,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_pages/about.md"
       type: posts
     values:
       layout: single
