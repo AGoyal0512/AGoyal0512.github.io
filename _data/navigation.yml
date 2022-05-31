@@ -1,8 +1,8 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Experience"
     url: /experience/
-#   - title: "Posts"
-#     url: /posts/
 #   - title: "Categories"
 #     url: /categories/
 #   - title: "Tags"
