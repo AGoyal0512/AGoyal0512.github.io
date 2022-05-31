@@ -22,7 +22,7 @@ github_username: AGoyal0512
 minimal_mistakes_skin: contrast
 locale: en-US
 url : https://agoyal0512.github.io
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
