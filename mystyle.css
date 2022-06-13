@@ -7,6 +7,20 @@ h2 {
     color: red;
 }
 
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 17px;
+    opacity: 0.8;
+}
+
+h5 {
+    font-size: 16px;
+    opacity: 0.8;
+}
+
 p {
     font-size: 18px;
 }
