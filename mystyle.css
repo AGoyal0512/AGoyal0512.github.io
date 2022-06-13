@@ -23,11 +23,11 @@ h5 {
 
 p {
     font-size: 18px;
-    line-height : 5px;
 }
 
-li {
+div.first {
     font-size: 15px;
+    line-height: 15px;
 }
 
 a{
