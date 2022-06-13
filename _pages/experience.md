@@ -13,5 +13,5 @@ for i in range(5):
 This will print the numbers 1 to 5 with spaces betweem them.
 
 <span style="color:darkblue;font-size:20px">
-    Professional Experiences
+    <b>Professional Experiences</b>
 </span>
