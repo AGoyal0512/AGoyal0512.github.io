@@ -6,7 +6,7 @@ subtitle: CS Ph.D. Student at UIUC
 
 profile:
   align: right
-  image: agam_pic.jpg
+  image: agam_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Computer Science Ph.D. Student</p>
