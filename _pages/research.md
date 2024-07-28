@@ -21,6 +21,6 @@ I was fortunate to be advised by [Dr. Hanbaek Lyu](https://hanbaeklyu.com/) with
 
 ## Collaborations
 
-I am always happy to collaborate or discuss ideas related to common research interests, and am also open to research opportunities for internships from the industry. Please feel free to reach out to me if you would like to collaborate on something!
+I am always happy to collaborate or discuss ideas related to common research interests. Please feel free to reach out to me if you would like to collaborate on something!
 
 I have previously collaborated and continue to do so closely with many graduate students including [Siddharth Suresh (UW-Madison)](https://www.sidsuresh.com/), [Yun-Shiuan Chuang (UW-Madison)](https://yunshiuan.github.io/), [Diganta Misra (MPI)](https://digantamisra98.github.io/), [Richard Paul Yim (UCSF)](https://www.richpaulyim.com/), and industry researchers including [Pin-Yu Chen (IBM-Research)](https://sites.google.com/site/pinyuchenpage/home).
