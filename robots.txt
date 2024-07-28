@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://agam-test.github.io/al-folio/sitemap.xml
+Sitemap: https://AGoyal0512.github.io/al-folio/sitemap.xml
