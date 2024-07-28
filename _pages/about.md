@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science Ph.D. Student at UIUC
+subtitle: agamg2 [at] illinois [dot] edu
 
 profile:
   align: right
