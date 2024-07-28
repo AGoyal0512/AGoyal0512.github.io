@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Named an [exceptional reviewer](https://dmlr.ai/reviewers/) by DMLR(https://data.mlr.press/).
+Named an [exceptional reviewer](https://dmlr.ai/reviewers/) by [DMLR](https://data.mlr.press/).
