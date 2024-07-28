@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS Ph.D. Student at UIUC
+subtitle: Computer Science Ph.D. Student at UIUC
 
 profile:
   align: right
