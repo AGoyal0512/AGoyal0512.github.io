@@ -6,7 +6,7 @@ subtitle: agamg2 [at] illinois [dot] edu
 
 profile:
   align: right
-  image: agam_pic.jpeg
+  image: Agam_Grad_Pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
