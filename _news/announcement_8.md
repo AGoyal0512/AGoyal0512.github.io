@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-03-15
+date: 2024-10-17
 inline: true
 related_posts: false
 ---
 
-Two works on social simulations using LLMs accepted to the [LLM Agents](https://llmagents.github.io/) workshop at ICLR 2024.
+Two new preprints on [Uncovering the Internet's Hidden Values](https://arxiv.org/abs/2410.13036) and [Small Language Models for Content Moderation](https://arxiv.org/abs/2410.13155) are now on arXiv!

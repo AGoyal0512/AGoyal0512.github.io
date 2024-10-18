@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-15
+date: 2023-11-28
 inline: true
 related_posts: false
 ---
 
-Honored to receive the [Trewartha Senior Honors Thesis Research Award](https://honors.ls.wisc.edu/trewartha-undergraduate-honors-research-grant/) and the [Bromley Conference Travel Award](https://honors.ls.wisc.edu/bromley-conference-travel-award/) from the L&S Honors committee.
+Our preprint on a [latent linear model for nonlinear coupled oscillators on graphs](https://arxiv.org/abs/2311.14910) is out on arXiv.

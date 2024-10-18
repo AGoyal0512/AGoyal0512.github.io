@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-28
+date: 2024-02-15
 inline: true
 related_posts: false
 ---
 
-Our preprint on a [latent linear model for nonlinear coupled oscillators on graphs](https://arxiv.org/abs/2311.14910) is out on arXiv.
+Serving as a reviewer for ICLR 2024 workshops on [LLM Agents](https://llmagents.github.io/) and [Data-centric Machine Learning](https://dmlr.ai/).
