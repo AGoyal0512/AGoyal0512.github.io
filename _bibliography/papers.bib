@@ -67,7 +67,6 @@
   code={https://github.com/landskape-ai/Reprogram_LT},
   pdf={2024_CVPRW_paper.pdf},
   supp={2024_CVPRW_supp.pdf},
-  selected={true},
   preview={vp.png}
 }
 
@@ -83,4 +82,28 @@
   arxiv={2406.17232},
   selected={true},
   preview={benign_pic.jpg}
+}
+
+@article{goyal2024uncovering,
+  title={Uncovering the Internet's Hidden Values: An Empirical Study of Desirable Behavior Using Highly-Upvoted Content on Reddit},
+  author={<u>Agam Goyal</u> and Lambert, Charlotte and Chandrasekharan, Eshwar},
+  journal={arXiv preprint arXiv:2410.13036},
+  year={2024},
+  abbr={arXiv},
+  abstract={A major task for moderators of online spaces is norm-setting, essentially creating shared norms for user behavior in their communities. Platform design principles emphasize the importance of highlighting norm-adhering examples and explicitly stating community norms. However, norms and values vary between communities and go beyond content-level attributes, making it challenging for platforms and researchers to provide automated ways to identify desirable behavior to be highlighted. Current automated approaches of detecting desirability are limited to measures of prosocial behavior, but we do not know whether these measures fully capture the spectrum of what communities value. In this paper, we use upvotes, which express community approval, as a proxy for desirability and conduct an analysis of highly-upvoted comments across 85 popular sub-communities on Reddit. Using a large language model, we extract values from these comments and compile 97 macro, meso, and micro values based on their frequency across communities. Furthermore, we find that existing computational models for measuring prosociality were inadequate to capture 86 of the values we extracted. Finally, we show that our approach can not only extract most of the qualitatively-identified values from prior taxonomies, but also uncover new values that are actually encouraged in practice. This work has implications for improving moderator understanding of their community values, motivates the need for nuanced models of desirability beyond prosocial measures, and provides a framework that can supplement qualitative work with larger-scale content analyses.},
+  arxiv={2410.13036},
+  selected={true},
+  preview={upvote_teaser.png}
+}
+
+@article{zhan2024slm,
+  title={SLM-Mod: Small Language Models Surpass LLMs at Content Moderation},
+  author={Zhan*, Xianyang and {<u>Agam Goyal</u>}* and Chen, Yilun and Chandrasekharan, Eshwar and Saha, Koustuv},
+  journal={arXiv preprint arXiv:2410.13155},
+  year={2024},
+  abbr={arXiv},
+  abstract={Large language models (LLMs) have shown promise in many natural language understanding tasks, including content moderation. However, these models can be expensive to query in real-time and do not allow for a community-specific approach to content moderation. To address these challenges, we explore the use of open-source small language models (SLMs) for community-specific content moderation tasks. We fine-tune and evaluate SLMs (less than 15B parameters) by comparing their performance against much larger open- and closed-sourced models. Using 150K comments from 15 popular Reddit communities, we find that SLMs outperform LLMs at content moderation-11.5% higher accuracy and 25.7% higher recall on average across all communities. We further show the promise of cross-community content moderation, which has implications for new communities and the development of cross-platform moderation techniques. Finally, we outline directions for future work on language model based content moderation.},
+  arxiv={2410.13155},
+  selected={true},
+  preview={slm_mod.png}
 }
