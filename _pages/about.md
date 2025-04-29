@@ -7,8 +7,13 @@ subtitle: agamg2 [at] illinois [dot] edu
 profile:
   align: right
   image: Agam_Grad_Pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: 
+  image_circular: true # crops the image to make it circular
+  more_info: >
+    <p><strong>Affiliated Groups</strong></p>
+    <ul style="margin-top:0; padding-left: 1.2em; list-style: none;">
+      <li><a href="https://crowddynamicslab.github.io/" target="_blank" rel="noopener noreferrer">Crowd Dynamics Lab</a></li>
+      <li><a href="http://www.eshwarchandrasekharan.com/lab.html" target="_blank" rel="noopener noreferrer">SCUBA Group</a></li>
+    </ul>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -17,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a first-year Computer Science Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/), co-advised by [Prof. Hari Sundaram](https://sundaram.cs.illinois.edu/index.html) and [Prof. Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com). I also collaborate closely with [Prof. Koustuv Saha](https://koustuv.com). Previously, I was an undergraduate student at the [University of Wisconsin-Madison](https://www.wisc.edu/) advised by [Prof. Hanbaek Lyu](https://hanbaeklyu.com/) and [Prof. Junjie Hu](https://junjiehu.github.io/).
 
-My research focuses on aligning GenAI technologies with diverse human values and exploring questions around their safe integration in social contexts. I also study the application of these technologies in computational understanding and governance of online communities. For more details on my research interests, see [this page](/research/). My work is graciously supported in part by the [Cohere For AI Research Grant Program](https://cohere.com/blog/c4ai-research-grants) and the [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/). 
+My research focuses on aligning GenAI technologies with diverse human values and exploring questions around their safe integration in social contexts. I also study the application of NLP techniques more broadly in computational understanding, modeling, and governance of online communities. For more details on my research interests, see [this page](/research/). My work is graciously supported in part by the [Cohere For AI Research Grant Program](https://cohere.com/blog/c4ai-research-grants) and the [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/). 
 
 Currently, I am working as a Ph.D. Research Intern at [Adobe Research](https://research.adobe.com/), mentored by [Dr. Apoorv Saxena](https://apoorvumang.github.io) and [Dr. Koyel Mukherjee](https://research.adobe.com/person/koyel-mukherjee/). My project involves exploring continual learning techniques for LLMs to enhance contextual faithfulness in generation.
 
