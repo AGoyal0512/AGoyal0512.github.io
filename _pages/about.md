@@ -9,11 +9,13 @@ profile:
   image: Agam_Grad_Pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><strong>Affiliated Groups</strong></p>
-    <ul style="margin-top:0; padding-left: 1.2em; list-style: none;">
-      <li><a href="https://crowddynamicslab.github.io/" target="_blank" rel="noopener noreferrer">Crowd Dynamics Lab</a></li>
-      <li><a href="http://www.eshwarchandrasekharan.com/lab.html" target="_blank" rel="noopener noreferrer">SCUBA Group</a></li>
-    </ul>
+    <div style="text-align: center;">
+      <p><strong>Affiliated Groups</strong></p>
+      <ul style="margin-top:0; padding-left: 0; list-style: none;">
+        <li><a href="https://crowddynamicslab.github.io/" target="_blank" rel="noopener noreferrer">Crowd Dynamics Lab</a></li>
+        <li><a href="http://www.eshwarchandrasekharan.com/lab.html" target="_blank" rel="noopener noreferrer">SCUBA Group</a></li>
+      </ul>
+    </div>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
