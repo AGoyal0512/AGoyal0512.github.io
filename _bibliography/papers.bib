@@ -97,17 +97,30 @@
     abbr={EMNLP, NeurIPS'W},
 }
 
-@article{zhan2024slm,
-  title={SLM-Mod: Small Language Models Surpass LLMs at Content Moderation},
-  author={Zhan*, Xianyang and {<u>Agam Goyal</u>}* and Chen, Yilun and Chandrasekharan, Eshwar and Saha, Koustuv},
-  journal={arXiv preprint arXiv:2410.13155},
-  booktitle = "Proceedings of the Association for Computational Linguistics: NAACL 2025",
-  year={2025},
-  abbr={NAACL},
-  abstract={Large language models (LLMs) have shown promise in many natural language understanding tasks, including content moderation. However, these models can be expensive to query in real-time and do not allow for a community-specific approach to content moderation. To address these challenges, we explore the use of open-source small language models (SLMs) for community-specific content moderation tasks. We fine-tune and evaluate SLMs (less than 15B parameters) by comparing their performance against much larger open- and closed-sourced models. Using 150K comments from 15 popular Reddit communities, we find that SLMs outperform LLMs at content moderation-11.5% higher accuracy and 25.7% higher recall on average across all communities. We further show the promise of cross-community content moderation, which has implications for new communities and the development of cross-platform moderation techniques. Finally, we outline directions for future work on language model based content moderation.},
-  arxiv={2410.13155},
-  selected={true},
-  preview={slm_mod.png}
+@inproceedings{zhan-etal-2025-slm,
+    title = "{SLM}-Mod: Small Language Models Surpass {LLM}s at Content Moderation",
+    author = "Zhan, Xianyang  and
+      Goyal, Agam  and
+      Chen, Yilun  and
+      Chandrasekharan, Eshwar  and
+      Saha, Koustuv",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.441/",
+    pages = "8774--8790",
+    ISBN = "979-8-89176-189-6",
+    arxiv={2410.13155},
+    abbr={NAACL},
+    selected={true},
+    pdf={https://aclanthology.org/2025.naacl-long.441.pdf},
+    preview={slm_mod.png},
+    abstract = "Large language models (LLMs) have shown promise in many natural language understanding tasks, including content moderation. However, these models can be expensive to query in real-time and do not allow for a community-specific approach to content moderation. To address these challenges, we explore the use of open-source small language models (SLMs) for community-specific content moderation tasks. We fine-tune and evaluate SLMs (less than 15B parameters) by comparing their performance against much larger open- and closed-sourced models in both a zero-shot and few-shot setting. Using 150K comments from 15 popular Reddit communities, we find that SLMs outperform zero-shot LLMs at content moderation$-11.5${\%} higher accuracy and 25.7{\%} higher recall on average across all communities. Moreover, few-shot in-context learning leads to only a marginal increase in the performance of LLMs, still lacking compared to SLMs. We further show the promise of cross-community content moderation, which has implications for new communities and the development of cross-platform moderation techniques. Finally, we outline directions for future work on language model based content moderation."
 }
 
 @article{goyal2024uncovering,
